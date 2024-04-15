@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML tutorial</title>
+    
+</head>
+<body>
+    <h1>link color practice</h1>
+    <p>we are able to change default setting</p>
+    <a
+    href="https://aeon.co/essays/pioneering-sociologist-erving-goffman-saw-magic-in-the-mundane" target="_blank">
+        HTML Links
+    </a>
+
+    <h1>another code practice link</h1>
+    <a href="index.html" style="color:darkolivegreen">
+        visit new practice page
+    </a>
+    <br>
+    <img src="romantic_walk_in_the_park-wallpaper-1366x768.jpg" alt="romantic walk" width="320" height="200">
+
+    <p>
+        <img src="romantic_walk_in_the_park-wallpaper-1366x768.jpg" width="140" height="80" style="float:left;">
+        people will walk with you upto their destination
+        </br>
+        from then you will be on your own
+    </p>
+    <br>
+    <br>
+    <a href="https://www.w3schools.com/html/html_images.asp" alt="work">
+    <img src="https://salesscreencontent.blob.core.windows.net/hermes-cms/galleryImages/gifs_3.gif" width="140" height="80">
+    </a>
+    <br>
+    
+    <img src="https://promova.com/content/fast_food_names_d368a9810d.png" alt="winter" usemap="#fastfood" width="400" height="250">
+
+    <map name="fastfood">
+        <area shape="poly"
+        coords="100,35,150,70,100,80,10,70" alt="pizza" href="pizza.html">
+
+        <area shape="rect"
+        coords="170,10,237,80" alt="burger" href="burger.html">
+
+        <area shape="poly"
+        coords="260,100,290,40,350,45,390,100" alt="taco" href="taco.html">
+
+        <area shape="poly"
+        coords="350,160,350,220,300,220,290,160,292,140,300,127,330,127,370,150" alt="french fries" href="french fries.html">
+
+        <area shape="poly"
+        coords="230,200,200,215,140,215,110,190,130,175,200,180" alt="hot dog" href="hot dog.html">
+
+    </map>
+<pre style="background-image:url(https://r1.ilikewallpaper.net/iphone-wallpapers/download/24176/Love-Cute-Cartoon-Little-Couple-iphone-wallpaper-ilikewallpaper_com_200.jpg); background-repeat: no-repeat;">
+    Love
+    is
+    a
+    fire.
+    But
+    whether
+    it
+    is
+    going
+    to
+    warm
+    your
+    hearth
+    or
+    burn
+    down
+    your
+    house,
+    you
+    can
+    never 
+    tell.
+</pre>
+ <!--html tables-->
+ <h2>html table</h2>
+ <table style="width:40%;text-align: center;">
+    <tr>
+        <th>company</th>
+        <th>contact</th>
+        <th>country</th>
+        <th>web</th>
+    </tr>
+    <tr>
+        <td>lenovo</td>
+        <td>shailendra katyal</td>
+        <td>mumbai</td>
+        <td>lenovoindia.co.in</td>
+    </tr>
+    <tr>
+        <td>samsung</td>
+        <td>hyun chil hong</td>
+        <td>banglore</td>
+        <td>samsungindia.co</td>
+    </tr>
+ </table>
+</body>
+</html>
